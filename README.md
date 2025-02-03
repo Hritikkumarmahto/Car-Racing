@@ -18,44 +18,44 @@ Instructions menu
 
 Installation & Execution
 
-Prerequisites
-
-A C++ compiler (such as MinGW for Windows)
-
-Windows OS (as it uses <windows.h>, <conio.h>, and <dos.h>, which are Windows-specific)
-
-Steps to Run
-
-Clone the repository (or download the code):
-
-git clone <repository-link>
-cd car-game-cpp
-
-Compile the code:
-
-g++ car_game.cpp -o car_game.exe
-
-Run the executable:
-
-car_game.exe
+	Prerequisites
+	
+	A C++ compiler (such as MinGW for Windows)
+	
+	Windows OS (as it uses <windows.h>, <conio.h>, and <dos.h>, which are Windows-specific)
+	
+	Steps to Run
+	
+	Clone the repository (or download the code):
+	
+	git clone <repository-link>
+	cd car-game-cpp
+	
+	Compile the code:
+	
+	g++ car_game.cpp -o car_game.exe
+	
+	Run the executable:
+	
+	car_game.exe
 
 Controls
 
-Press 'A' - Move car left
-
-Press 'D' - Move car right
-
-Press 'Esc' - Exit the game
+	Press 'A' - Move car left
+	
+	Press 'D' - Move car right
+	
+	Press 'Esc' - Exit the game
 
 Game Instructions
 
-Avoid the enemy cars by moving left or right.
-
-The game ends if your car collides with an enemy car.
-
-Your score increases as you successfully avoid obstacles.
-
-Press any key at the start screen to begin the game.
+	Avoid the enemy cars by moving left or right.
+	
+	The game ends if your car collides with an enemy car.
+	
+	Your score increases as you successfully avoid obstacles.
+	
+	Press any key at the start screen to begin the game.
 
 
 Issues & Contribution
