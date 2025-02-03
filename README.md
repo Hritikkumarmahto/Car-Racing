@@ -14,11 +14,11 @@ Features
 	
 	Game-over condition upon collision
 
-Instructions menu
+	Instructions menu
 
 Installation & Execution
 
-	Prerequisites
+Prerequisites
 	
 	A C++ compiler (such as MinGW for Windows)
 	
