@@ -28,17 +28,17 @@ Prerequisites
 	
 	Clone the repository (or download the code):
 	
-	git clone <repository-link>
-	cd car-game-cpp
+	git clone 
+ 
+	cd Car-Racing-cpp
 	
 	Compile the code:
 	
-	g++ car_game.cpp -o car_game.exe
+	g++ Car-Racing-cpp -o Car-Racing.exe
 	
 	Run the executable:
 	
-	car_game.exe
-
+	Car-Racing-cpp
 Controls
 
 	Press 'A' - Move car left
